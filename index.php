@@ -8,4 +8,4 @@ echo "This file is stored on GitHub.";
   Normal<BR/>
   HTML<BR/>
   
-  <?php echo "And this is from php again. ?>
+  <?php echo "And this is from php again." ?>
