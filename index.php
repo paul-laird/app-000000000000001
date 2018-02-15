@@ -10,3 +10,6 @@ echo "This file is stored on GitHub.";
   <image src="https://students.dbs.ie/site_images/dbs_logo.png">
   
   <?php echo "And this is from php again." ?>
+    
+    
+    Hello WCAD People
